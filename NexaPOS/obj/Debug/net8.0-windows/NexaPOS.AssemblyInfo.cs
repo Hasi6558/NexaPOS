@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NexaPOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee1260542f01610da306a1d0ac16c8c78def6996")]
 [assembly: System.Reflection.AssemblyProductAttribute("NexaPOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NexaPOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
