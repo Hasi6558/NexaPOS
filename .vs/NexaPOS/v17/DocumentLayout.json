@@ -3,92 +3,92 @@
   "WorkspaceRootPath": "D:\\visual programming project\\NexaPOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\SearchProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\SearchProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|D:\\visual programming project\\NexaPOS\\nexapos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\searchproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\searchproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\Quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\Quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\nexapos\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nexapos\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\nexapos\\searchproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nexapos\\searchproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|D:\\visual programming project\\NexaPOS\\nexapos\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\nexapos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nexapos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|D:\\visual programming project\\NexaPOS\\nexapos\\searchproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\searchproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\nexapos\\settleapaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nexapos\\settleapaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|D:\\visual programming project\\NexaPOS\\nexapos\\settleapaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\settleapaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\ConfirmPaymentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\ConfirmPaymentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\confirmpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\confirmpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\nexapos\\confirmpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nexapos\\confirmpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|D:\\visual programming project\\NexaPOS\\nexapos\\confirmpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\confirmpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\DBConnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\DBConnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\nexapos\\discountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nexapos\\discountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|D:\\visual programming project\\NexaPOS\\nexapos\\discountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\discountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\Quantity.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\Quantity.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\quantity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\quantity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\SettleaPaymentForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\SettleaPaymentForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\settleapaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\settleapaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\SettleaPaymentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\SettleaPaymentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\settleapaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\settleapaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\NexaPOS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\NexaPOS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\nexapos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\nexapos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\ConfirmPaymentForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\ConfirmPaymentForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\confirmpaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\confirmpaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\DiscountForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\DiscountForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\discountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\discountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\DiscountForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\DiscountForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\discountform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\discountform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\SearchProducts.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\SearchProducts.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\searchproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\searchproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\nexapos\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nexapos\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|D:\\visual programming project\\NexaPOS\\nexapos\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual programming project\\NexaPOS\\NexaPOS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NexaPOS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|d:\\visual programming project\\nexapos\\nexapos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E40563-873F-4761-A9D9-55BBC2BB65D2}|NexaPOS\\NexaPOS.csproj|solutionrelative:nexapos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,11 +98,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\visual programming project\\NexaPOS\\NexaPOS\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "NexaPOS\\Form1.Designer.cs",
@@ -111,11 +111,12 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T05:37:46.478Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Quantity.cs",
               "DocumentMoniker": "D:\\visual programming project\\NexaPOS\\NexaPOS\\Quantity.cs",
               "RelativeDocumentMoniker": "NexaPOS\\Quantity.cs",
@@ -129,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Quantity.cs [Design]",
               "DocumentMoniker": "D:\\visual programming project\\NexaPOS\\NexaPOS\\Quantity.cs",
               "RelativeDocumentMoniker": "NexaPOS\\Quantity.cs",
@@ -140,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SearchProducts.cs [Design]",
               "DocumentMoniker": "D:\\visual programming project\\NexaPOS\\NexaPOS\\SearchProducts.cs",
               "RelativeDocumentMoniker": "NexaPOS\\SearchProducts.cs",
@@ -152,18 +153,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\visual programming project\\NexaPOS\\NexaPOS\\Form1.cs",
               "RelativeDocumentMoniker": "NexaPOS\\Form1.cs",
               "ToolTip": "D:\\visual programming project\\NexaPOS\\NexaPOS\\Form1.cs [Design]",
               "RelativeToolTip": "NexaPOS\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T05:38:50.26Z"
+              "WhenOpened": "2024-07-20T05:38:50.26Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SearchProducts.cs",
               "DocumentMoniker": "D:\\visual programming project\\NexaPOS\\NexaPOS\\SearchProducts.cs",
               "RelativeDocumentMoniker": "NexaPOS\\SearchProducts.cs",
@@ -349,7 +351,8 @@
               "ToolTip": "D:\\visual programming project\\NexaPOS\\NexaPOS\\Form1.resx",
               "RelativeToolTip": "NexaPOS\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-07-21T05:40:46.944Z"
+              "WhenOpened": "2024-07-21T05:40:46.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
